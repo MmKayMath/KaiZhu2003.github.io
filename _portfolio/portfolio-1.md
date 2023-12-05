@@ -69,6 +69,8 @@ collection: portfolio
 
   - 2023秋课程作业[Homework 1](https://mmkaymath.github.io/KaiZhu.github.io/file/first.pdf)
   - 2023秋课程~~不忠实的~~记录笔记
+- #### 交换代数
+  - 2023春结课论文[轨道陈类](https://mmkaymath.github.io/KaiZhu2003.github.io/file/交换代数期末论文.pdf)
 
 - #### 代数几何
 
