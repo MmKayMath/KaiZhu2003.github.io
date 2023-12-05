@@ -1,10 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Notes"
+excerpt: "这里整理了我的一些数学学习笔记"
 collection: portfolio
 ---
-
-# Notes
 
 ## **注**：部分手写笔记较大，以百度网盘形式上传，提取码均为**ZK03**
 
