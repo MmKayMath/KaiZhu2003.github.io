@@ -67,7 +67,7 @@ collection: portfolio
 
 - #### 解析数论
 
-  - 2023秋课程作业[Homework 1](https://mmkaymath.github.io/KaiZhu.github.io/file/first.pdf)
+  - 2023秋课程报告 [素数大间距问题](https://mmkaymath.github.io/KaiZhu2003.github.io/files/LGBP(1).pdf)，[演示文档](https://mmkaymath.github.io/KaiZhu2003.github.io/files/Large_gaps(7).pdf)
   - 2023秋课程~~不忠实的~~记录笔记
     
 - #### 交换代数
@@ -119,3 +119,6 @@ collection: portfolio
   - GH收敛Notes[(基于江文帅老师短期课程)](https://mmkaymath.github.io/KaiZhu.github.io/file/GAnotes.pdf)
 
 - #### 几何群论
+
+- #### 双曲几何
+  - 讨论班报告 [双曲面模型](https://mmkaymath.github.io/KaiZhu2003.github.io/files/HG-1.pdf) 
