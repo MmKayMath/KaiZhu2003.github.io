@@ -95,7 +95,7 @@ collection: portfolio
 - #### 微分拓扑
 
 
-  - 2023讨论班讲稿
+  - 2023讨论班讲稿[相交理论](https://mmkaymath.github.io/KaiZhu2003.github.io/files/DiffTop.pdf)
   - 微分流形题选[(更新日期：2023.10)](https://mmkaymath.github.io/KaiZhu.github.io/file/2023DMexer.pdf)
 
 
