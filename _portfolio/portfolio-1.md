@@ -26,7 +26,7 @@ collection: portfolio
 
 - #### 复变函数
 
-  - [(开专复变函数课后习题部分解答)](https://pan.baidu.com/s/1ypRoRyzd1f6YjoUYhenPkw)
+  - [(开专复变函数课后习题部分解答——苏子衿同学校订)](https://pan.baidu.com/s/1QXJptcaak6OhCllHmLOdjA?pwd=ZK03)
 
 - #### 常微分方程(ODE)
 
@@ -49,7 +49,7 @@ collection: portfolio
 
 - #### 动力系统
 
-  - 2023秋课程~~不忠实的~~记录笔记
+  - 2023秋课程复习笔记
 
 
 ### 代数与数论
@@ -95,7 +95,7 @@ collection: portfolio
 - #### 微分拓扑
 
 
-  - 2023讨论班讲稿[相交理论](https://mmkaymath.github.io/KaiZhu2003.github.io/files/DiffTop.pdf)
+  - 2023讨论班讲稿[参考Pollack](https://mmkaymath.github.io/KaiZhu2003.github.io/files/DiffTop.pdf)
   - 微分流形题选[(更新日期：2023.10)](https://mmkaymath.github.io/KaiZhu.github.io/file/2023DMexer.pdf)
 
 
