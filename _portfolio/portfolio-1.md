@@ -92,6 +92,7 @@ collection: portfolio
   - Notes[(更新日期：2023.05)](https://pan.baidu.com/s/16mOcojPRfOTrF4A9Tw_Aqg)
   - 2023.7.3讨论班报告[(Bott Tu第一章部分)](https://mmkaymath.github.io/KaiZhu.github.io/file/7.3AT.pdf)，[(视频录屏)](https://www.bilibili.com/video/BV1qV4y1a7au/?spm_id_from=333.999.0.0&vd_source=074d22bcdc0bdf783f06b409b49b4bd1)
   - 2023期末复习[左岸孤单人](https://mmkaymath.github.io/KaiZhu2003.github.io/files/2023TopologyZQB.pdf)
+  - 2024春示性类课程笔记
 
 - #### 微分拓扑
 
@@ -114,6 +115,9 @@ collection: portfolio
 
   - Solutions to da Silva
   - 切触动力系统报告手稿[(2023.11.30)](https://mmkaymath.github.io/KaiZhu.github.io/file/contactdynamic.pdf)
+  - 2024春辛几何课程笔记(刘小博老师的课是我听过最精彩的课程，深入浅出，从微分流形level的辛几何讲到Gromov-Witten不变量，令人高潮)
+    - [2024.6.6]()
+    - [一些课程笔记的注记]()
 
 - #### 几何分析
 
