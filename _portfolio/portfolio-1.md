@@ -93,6 +93,7 @@ collection: portfolio
   - 2023.7.3讨论班报告[(Bott Tu第一章部分)](https://mmkaymath.github.io/KaiZhu.github.io/file/7.3AT.pdf)，[(视频录屏)](https://www.bilibili.com/video/BV1qV4y1a7au/?spm_id_from=333.999.0.0&vd_source=074d22bcdc0bdf783f06b409b49b4bd1)
   - 2023期末复习[左岸孤单人](https://mmkaymath.github.io/KaiZhu2003.github.io/files/2023TopologyZQB.pdf)
   - 2024春示性类课程笔记
+    - [1-基本概念](files/向量丛和示性类1—基本概念.pdf) 
 
 - #### 微分拓扑
 
