@@ -94,7 +94,7 @@ collection: portfolio
   - 2023期末复习[左岸孤单人](https://mmkaymath.github.io/KaiZhu2003.github.io/files/2023TopologyZQB.pdf)
   - 2024春示性类课程笔记(修订后再上传)
     - [1-基本概念](https://mmkaymath.github.io/KaiZhu2003.github.io/files/CC1)
-    - [2-Stiefel-Whitney示性类A(https://mmkaymath.github.io/KaiZhu2003.github.io/files/CC1)
+    - [2-Stiefel-Whitney示性类A](https://mmkaymath.github.io/KaiZhu2003.github.io/files/CC1)
     - [2.5-向量丛的分类](https://mmkaymath.github.io/KaiZhu2003.github.io/files/CC1)
     - [3-Stiefel-Whitney示性类B](https://mmkaymath.github.io/KaiZhu2003.github.io/files/CC1)
     - [4-Chern Class](https://mmkaymath.github.io/KaiZhu2003.github.io/files/CC1)
