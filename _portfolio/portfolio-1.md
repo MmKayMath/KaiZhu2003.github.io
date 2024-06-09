@@ -138,4 +138,7 @@ collection: portfolio
 - #### 几何群论
 
 - #### 双曲几何
-  - 讨论班报告 [双曲面模型](https://mmkaymath.github.io/KaiZhu2003.github.io/files/HG-1.pdf) 
+  - 讨论班报告 [双曲面模型](https://mmkaymath.github.io/KaiZhu2003.github.io/files/HG-1.pdf)
+ 
+- #### 映射类群
+  - 讨论班报告 [Nielsen实现问题](https://mmkaymath.github.io/KaiZhu2003.github.io/files/HG-1.pdf) 
