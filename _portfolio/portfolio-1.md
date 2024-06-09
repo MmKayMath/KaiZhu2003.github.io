@@ -141,4 +141,10 @@ collection: portfolio
   - 讨论班报告 [双曲面模型](https://mmkaymath.github.io/KaiZhu2003.github.io/files/HG-1.pdf)
  
 - #### 映射类群
-  - 讨论班报告 [Nielsen实现问题](https://mmkaymath.github.io/KaiZhu2003.github.io/files/HG-1.pdf) 
+  - 讨论班报告 [Nielsen实现问题](https://pan.baidu.com/s/1agAN9MJln0UrJhdEeysBnw)
+ 
+- #### Teichmüller理论
+
+- #### 纽结
+
+- #### 四维流形
