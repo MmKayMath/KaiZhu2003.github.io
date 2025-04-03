@@ -106,7 +106,7 @@ collection: portfolio
 - #### 复几何
 
   -  Notes[(基于2022,2023BICMR)](https://mmkaymath.github.io/KaiZhu.github.io/file/cgnotes.pdf)
-  -  2024秋季学期期末作业[(Kodaira嵌入定理)](https://mmkaymath.github.io/KaiZhu.github.io/file/cgnotes.pdf)
+  -  2024秋季学期期末作业[(Kodaira嵌入定理)](https://mmkaymath.github.io/KaiZhu.github.io/file/kodaira.pdf)
 
 - #### 辛几何
 
@@ -121,6 +121,7 @@ collection: portfolio
   - GH收敛Notes[(基于江文帅老师短期课程)](https://mmkaymath.github.io/KaiZhu.github.io/file/GAnotes.pdf)
 
 - #### 几何群论
+- 
 
 - #### 双曲几何
   - 讨论班报告 [双曲面模型](https://mmkaymath.github.io/KaiZhu2003.github.io/files/HG-1.pdf)
@@ -128,8 +129,13 @@ collection: portfolio
 - #### 映射类群
   - 讨论班报告 [Nielsen实现问题](https://pan.baidu.com/s/1agAN9MJln0UrJhdEeysBnw)
  
-- #### Teichmüller理论
-
 - #### 纽结
 
+- #### 三维流形
+
 - #### 四维流形
+  - Kirby calculus notes  [4-mfld与Kirby calculus 4-6章笔记](https://pan.baidu.com/s/1h6qpUDEqnmAB5i7WfVXG6A)
+  - Piccirillo短课 notes [四维流形的奇异性](https://pan.baidu.com/s/1pPvIuKjfUbYwUGti5VaGBA)
+ 
+- #### 规范理论
+  - “Big” notes    [幻想有朝一日能学会Instanton and Monopole，目前为2024秋季学期讨论班讲稿，只涉及基础的Spin几何与Seiberg-Witten不变量](https://pan.baidu.com/s/1agAN9MJln0UrJhdEeysBnw)
