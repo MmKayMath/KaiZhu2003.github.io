@@ -92,19 +92,8 @@ collection: portfolio
   - Notes[(更新日期：2023.05)](https://pan.baidu.com/s/16mOcojPRfOTrF4A9Tw_Aqg)
   - 2023.7.3讨论班报告[(Bott Tu第一章部分)](https://mmkaymath.github.io/KaiZhu.github.io/file/7.3AT.pdf)，[(视频录屏)](https://www.bilibili.com/video/BV1qV4y1a7au/?spm_id_from=333.999.0.0&vd_source=074d22bcdc0bdf783f06b409b49b4bd1)
   - 2023期末复习[左岸孤单人](https://mmkaymath.github.io/KaiZhu2003.github.io/files/2023TopologyZQB.pdf)
-  - 2024春示性类课程笔记(修订后再上传)
-    - [1-基本概念](https://mmkaymath.github.io/KaiZhu2003.github.io/files/CC1)
-    - [2-Stiefel-Whitney示性类A](https://mmkaymath.github.io/KaiZhu2003.github.io/files/CC1)
-    - [2.5-向量丛的分类](https://mmkaymath.github.io/KaiZhu2003.github.io/files/CC1)
-    - [3-Stiefel-Whitney示性类B](https://mmkaymath.github.io/KaiZhu2003.github.io/files/CC1)
-    - [4-Chern Class](https://mmkaymath.github.io/KaiZhu2003.github.io/files/CC1)
-    - [5-Grassman流形与分类空间](https://mmkaymath.github.io/KaiZhu2003.github.io/files/CC1)
-    - [6-主丛](https://mmkaymath.github.io/KaiZhu2003.github.io/files/CC1)
-    - [7-Euler类](https://mmkaymath.github.io/KaiZhu2003.github.io/files/CC1)
-    - [8-综合应用](https://mmkaymath.github.io/KaiZhu2003.github.io/files/CC1)
-    - [9-Pontrjagin类](https://mmkaymath.github.io/KaiZhu2003.github.io/files/CC1)
-    - [10-在代数几何中的应用](https://mmkaymath.github.io/KaiZhu2003.github.io/files/CC1)
-    - [11-定向配边群](https://mmkaymath.github.io/KaiZhu2003.github.io/files/CC1)
+  - 2024春示性类课程笔记[知乎合集](https://www.zhihu.com/column/c_1864338567360299008)
+    
 
 - #### 微分拓扑
 
