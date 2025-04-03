@@ -138,4 +138,4 @@ collection: portfolio
   - Piccirillo短课 notes [四维流形的奇异性](https://pan.baidu.com/s/1pPvIuKjfUbYwUGti5VaGBA)
  
 - #### 规范理论
-  - “Big” notes    [幻想有朝一日能学会Instanton and Monopole，目前为2024秋季学期讨论班讲稿，只涉及基础的Spin几何与Seiberg-Witten不变量](https://pan.baidu.com/s/1agAN9MJln0UrJhdEeysBnw)
+  - “Big” notes (幻想有朝一日能学会Instanton and Monopole，目前为2024秋季学期讨论班讲稿，只涉及基础的Spin几何与Seiberg-Witten不变量)  [2025.3.28](https://mmkaymath.github.io/KaiZhu2003.github.io/files/gauge theory.pdf)
