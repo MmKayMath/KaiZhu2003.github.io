@@ -103,7 +103,8 @@ collection: portfolio
 - #### 复几何
 
   -  Notes[(基于2022,2023BICMR)](https://mmkaymath.github.io/KaiZhu.github.io/file/cgnotes.pdf)
-  -  2024秋季学期期末作业[(Kodaira嵌入定理)](https://mmkaymath.github.io/KaiZhu.github.io/file/kodaira.pdf)
+  -  2024秋季学期期末作业[(Kodaira嵌入定理)](https://mmkaymath.github.io/KaiZhu2003.github.io/files/kodaira.pdf)
+)
 
 - #### 辛几何
 
