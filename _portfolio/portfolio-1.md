@@ -112,6 +112,7 @@ collection: portfolio
   - 2024春辛几何课程笔记(刘小博老师的课是我听过最精彩的课程，深入浅出，从微分流形level的辛几何讲到Gromov-Witten不变量，令人高潮)
     - [2024.6.6](https://pan.baidu.com/s/1IRrDAY-MJ2KGwIkXfdsvRw)(未来我或许会整理出一份TeX版本(? )
     - [一些课程笔记的注记](https://pan.baidu.com/s/1bp9dB9lEfU2NgZkdK-AoJA)
+  - Gromov不可压缩定理概述 [抄书笔记](https://mmkaymath.github.io/KaiZhu2003.github.io/files/gromovnonsquez.pdf) 
 
 - #### 几何分析
 
@@ -128,6 +129,7 @@ collection: portfolio
 - #### 纽结
 
 - #### 三维流形
+   - Martelli chap9 notes [三维流形基础](https://mmkaymath.github.io/KaiZhu2003.github.io/files/3mfldnotes.pdf) 
 
 - #### 四维流形
   - Kirby calculus notes  [4-mfld与Kirby calculus 4-6章笔记](https://pan.baidu.com/s/1h6qpUDEqnmAB5i7WfVXG6A)
