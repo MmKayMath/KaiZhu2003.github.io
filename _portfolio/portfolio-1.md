@@ -71,9 +71,6 @@ collection: portfolio
 - #### 代数几何
 
 
-  - 2023秋基础代数几何
-
-
 ### 几何与拓扑
 
 - #### 点集拓扑
@@ -110,7 +107,6 @@ collection: portfolio
 
 - #### 辛几何
 
-  - Solutions to da Silva
   - 切触动力系统报告手稿[(2023.11.30)](https://mmkaymath.github.io/KaiZhu.github.io/file/contactdynamic.pdf)
   - 2024春辛几何课程笔记(刘小博老师的课是我听过最精彩的课程，深入浅出，从微分流形level的辛几何讲到Gromov-Witten不变量，令人高潮)
     - [2024.6.6](https://pan.baidu.com/s/1IRrDAY-MJ2KGwIkXfdsvRw)(未来我或许会整理出一份TeX版本(? )
@@ -121,7 +117,6 @@ collection: portfolio
   - GH收敛Notes[(基于江文帅老师短期课程)](https://mmkaymath.github.io/KaiZhu.github.io/file/GAnotes.pdf)
 
 - #### 几何群论
-- 
 
 - #### 双曲几何
   - 讨论班报告 [双曲面模型](https://mmkaymath.github.io/KaiZhu2003.github.io/files/HG-1.pdf)
