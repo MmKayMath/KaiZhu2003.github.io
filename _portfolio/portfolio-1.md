@@ -32,11 +32,6 @@ collection: portfolio
 
   - [(考前突击抄书笔记)](https://pan.baidu.com/s/1XY1Z94A2-UdBOZ6I7vCpIA)
 
-- #### 实变函数
-
-  - [(部分习题整理)]()
-  - [(考前突击抄书笔记)]()
-
 - #### 偏微分方程(PDE)
 
   - 2023秋PDE课程笔记与作业
@@ -111,6 +106,7 @@ collection: portfolio
 - #### 复几何
 
   -  Notes[(基于2022,2023BICMR)](https://mmkaymath.github.io/KaiZhu.github.io/file/cgnotes.pdf)
+  -  2024秋季学期期末作业[(Kodaira嵌入定理)](https://mmkaymath.github.io/KaiZhu.github.io/file/cgnotes.pdf)
 
 - #### 辛几何
 
