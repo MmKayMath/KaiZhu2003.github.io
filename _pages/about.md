@@ -10,11 +10,11 @@ redirect_from:
 
 Here is **Kai Zhu(朱凯)**.
 
-我是南开大学2021级数学省身班的学生，目前兴趣方向是**几何与拓扑**
+我是南开大学2021级数学省身班的学生，目前兴趣方向是**低维拓扑，辛拓扑**
 
 **QQ**：308655003
 
-**知乎**：[凯淼淼]([(5 封私信) 凯淼淼 - 知乎 (zhihu.com)](https://www.zhihu.com/people/174562/posts))
+**知乎**：[凯淼淼](https://www.zhihu.com/people/174562/posts)
 
 **Email**：[NKUmathKay@163.com](NKUmathKay@163.com)
 
