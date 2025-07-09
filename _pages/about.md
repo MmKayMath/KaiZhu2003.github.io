@@ -20,6 +20,8 @@ Here is **Kai Zhu(朱凯)**.
 
 **MBTI**：INTJ
 
+**English Version** [Kai's homepage](https://sites.google.com/view/kaizhu/home)
+
 以下本面的内容如果侵犯了您的权益，可以通过邮箱或QQ联系我
 
 ## 教育经历
