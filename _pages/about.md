@@ -16,7 +16,7 @@ Here is **Kai Zhu(朱凯)**.
 
 **知乎**：[凯淼淼](https://www.zhihu.com/people/174562/posts)
 
-**Email**：[NKUmathKay@163.com](NKUmathKay@163.com)
+**Email**：kzhu25 at stu dot pku dot edu dot cn
 
 **MBTI**：INTJ
 
